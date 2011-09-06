@@ -1,0 +1,2 @@
+module Metl::Document
+end

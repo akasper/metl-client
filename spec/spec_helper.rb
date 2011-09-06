@@ -1,0 +1,1 @@
+require 'metl/golden_master'
